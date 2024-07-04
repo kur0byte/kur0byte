@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Kuro
 ![image](https://github.com/kur0byte/img/blob/main/1kLR.gif)
 
-a tech leader and self-taught developer with a passion for the backend and architecture, though I’m no stranger to navigating the intricacies of frontend frameworks. My primary focus lies in product development, where I combine my expertise and attention to detail to create innovative solutions that stand the test of time.
+a software engineer, tech lead and self-taught developer with a passion for the backend and architecture, though I’m no stranger to navigating the intricacies of frontend frameworks. My primary focus lies in product development, where I combine my expertise and attention to detail to create innovative solutions that stand the test of time.
 
 🌱 As an unstoppable learner, I'm constantly exploring new technologies and methodologies to enhance my skills and contribute to the tech community. My journey in tech is driven by a curiosity that knows no bounds and a commitment to excellence in every project I undertake.
 
