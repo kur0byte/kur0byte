@@ -3,12 +3,6 @@
 
 a software engineer, tech lead and self-taught developer with a passion for the backend and architecture, though I’m no stranger to navigating the intricacies of frontend frameworks. My primary focus lies in software architecture product development, where I combine my expertise and attention to detail to create innovative solutions that stand the test of time.
 
-🌱 As an unstoppable learner, I'm constantly exploring new technologies and methodologies to enhance my skills and contribute to the tech community. My journey in tech is driven by a curiosity that knows no bounds and a commitment to excellence in every project I undertake.
-
-🐱 When I'm not coding or leading tech initiatives, you can find me spending quality time with my feline friend or delving into the latest tech trends. My approach to technology is holistic – believing that a balanced life fuels creativity and innovation.
-
-🔍 I'm always on the lookout for challenging projects and opportunities to collaborate with like-minded individuals. Whether it’s refining the backend of a complex application or piecing together the optimal user experience, I bring a comprehensive perspective to the table.
-
 **Let's connect and create something amazing together!**
 
 ### 💻 Languages: 🛠️ 
